@@ -1,22 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--
-  Horizon IAS Academy sitemap
-  - One-page website, so there is one address. Section links like #faq are
-    not listed because search engines ignore anything after "#".
-  - Update <lastmod> whenever you change the page content.
-  - If your domain changes, update every https://www.horizonias.in/ below.
--->
-<urlset
-  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <url>
-    <loc>https://www.horizonias.in/</loc>
-    <lastmod>2026-10-02T09:00:00+05:30</lastmod>
+    <loc>https://horizonias.in/</loc>
+    <lastmod>2026-10-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
-    <xhtml:link rel="alternate" hreflang="en-IN" href="https://www.horizonias.in/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.horizonias.in/"/>
   </url>
 
 </urlset>
